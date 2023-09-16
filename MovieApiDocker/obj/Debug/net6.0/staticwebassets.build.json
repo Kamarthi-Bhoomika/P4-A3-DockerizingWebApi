@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y3uFnmTtBBSjbUiH43Yds0mFa1hZZ3qJxl5JnQf6Yn0=",
+  "Source": "MovieApiDocker",
+  "BasePath": "_content/MovieApiDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
